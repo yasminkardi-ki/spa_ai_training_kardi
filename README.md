@@ -1,0 +1,1 @@
+# spa_ai_training_kardi
